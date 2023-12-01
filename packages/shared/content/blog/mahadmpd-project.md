@@ -3,13 +3,13 @@ external: false
 draft: false
 title: Ma'had MPD Website Project
 description: Creating a company profile website for MahadMPD - "Islamic Education Institution
-date: 2023-11-29
+date: 2023-12-01
 ---
 
-## H2: Heading Two
-Mahad MPD [Markdoc](https://mahadmpd.com) is an educational institution dedicated to Islamic families, aiming to cultivate peaceful and harmonious families. Currently, Ma'had MPD offers a diverse range of programs, exceeding 20+, with a total student population surpassing 13,000.
+## What's Ma'had MPD
+Mahad MPD [(mahadmpd.com)](https://mahadmpd.com) is an educational institution dedicated to Islamic families, aiming to cultivate peaceful and harmonious families. Currently, Ma'had MPD offers a diverse range of programs, exceeding 20+, with a total student population surpassing 13,000.
 
-## Paragraph
+## Ma'had MPD Website Content
 This is a website profile creation project for mahadmpd.com, an Islamic education institution. The website includes the following sections:
 - Home: featuring the main page providing an overview of Mahad MPD.
 - About Us: containing a detailed profile page about Mahad MPD and its programs.
@@ -18,6 +18,7 @@ This is a website profile creation project for mahadmpd.com, an Islamic educatio
 - Download: providing a page for downloading resources offered by Mahad MPD.
 - Contact: featuring a form to contact Mahad MPD.
 
+## Tech Stack
 I approach the development of this website comprehensively, covering planning, development, and deployment, essentially working on a Fullstack basis. The technology stack used includes:
 - Next.JS
 - Astro Template
